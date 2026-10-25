@@ -14,7 +14,7 @@
 ### Developer · Product builder · AI systems
 
 <p>
-  Building products at <b>Mysl</b> and developing <b>Apex</b> —<br>
+  Building at <b>Mysl</b>, a technology startup, and developing <b>Apex</b> —<br>
   tools that turn real workflows into simpler systems.
 </p>
 
@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" valign="top">
       <b>Mysl</b><br>
-      Product work around voice analytics, interactive screens, AI avatars and agent systems.
+      Building inside a technology startup focused on practical products and useful systems.
     </td>
     <td width="50%" valign="top">
       <b>Apex</b><br>
@@ -61,8 +61,6 @@ Workflow automation  turning repetitive operational work into reliable flows
 ## Selected work
 
 - **Apex Feed** — my current product for fitness-club operations; the production source is private. [apex-ai.com.ru](https://apex-ai.com.ru/)
-- **AI avatar / voice analytics** — experimenting with fast, useful interfaces for spoken interaction.
-- **Inter-screen** — exploring interactive screens, product analytics and 1C integrations at Mysl.
 - **Agent systems** — designing an orchestrator that can research, build, test and hand work off for review.
 - **infodigger-bot** — a public Python repository for collecting and organizing information. [View repository](https://github.com/aaqd16/infodigger-bot)
 
