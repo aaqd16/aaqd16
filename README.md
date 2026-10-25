@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/agent-room.svg" alt="Agent room map: an orchestrator connected to research, voice analytics, Codex engineering, product review and memory" width="1200">
+  <img src="assets/agent-room.svg" alt="Agent room map: an orchestrator connected to research, engineering, product review and memory" width="1200">
 </p>
 
 ---
