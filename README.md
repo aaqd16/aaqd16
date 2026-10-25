@@ -53,7 +53,7 @@ I like products that survive contact with real work: clear interfaces, reliable 
 
 ```text
 AI systems          agents, orchestration, memory and practical automation
-Voice analytics     transcription pipelines, speaker context and quality checks
+AI interfaces       practical interfaces for intelligent workflows
 Product engineering  APIs, dashboards, integrations and tools for teams
 Workflow automation  turning repetitive operational work into reliable flows
 ```
